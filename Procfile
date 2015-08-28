@@ -1,1 +1,1 @@
-web: go-get-badges
+web: badges
