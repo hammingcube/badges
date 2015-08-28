@@ -2,7 +2,7 @@
 GitHub Badges in Golang
 
 ```sh
-git clone 
+git clone https://github.com/maddyonline/badges.git
 go run server.go
 ```
 In a separate tab, run `ngrok` and copy `ngrok`'s URL. Say it is: `http://583086c2.ngrok.io`.
