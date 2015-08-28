@@ -16,4 +16,4 @@ Put the following in a GitHub Readme.md. Refresh to see it's effect.
 
 
 Here's what it would look like if the server is up and running.
-![Solution](http://583086c2.ngrok.io/view)
+![Solution](https://go-get-badges.herokuapp.com/view)
