@@ -17,3 +17,4 @@ Put the following in a GitHub Readme.md. Refresh to see it's effect.
 
 Here's what it would look like if the server is up and running.
 ![Solution](https://go-get-badges.herokuapp.com/view)
+![Solution](http://badge.thinkhike.com/result/2a18439ed0a89af0501d)
